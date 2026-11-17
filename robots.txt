@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codea11y.dev/trackingwcag3/sitemap-index.xml
